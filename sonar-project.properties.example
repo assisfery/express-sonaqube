@@ -1,0 +1,12 @@
+sonar.projectKey=express-sonarqube
+sonar.projectName=Express SonarQube Example
+sonar.projectVersion=1.0
+
+# Diretório que contém o código-fonte
+sonar.sources=.
+
+# URL do servidor SonarQube
+sonar.host.url=http://localhost:9000
+
+# Token gerado no SonarQube
+sonar.login=
