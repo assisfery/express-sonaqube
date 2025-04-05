@@ -4,7 +4,7 @@ node_modules/
 dist/
 
 # SonarQube
-.scannerwork/
+.scannerwork
 
 # Test coverage
 coverage/
