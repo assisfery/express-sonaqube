@@ -1,7 +1,14 @@
 
-node_modules
+# Node
+node_modules/
+dist/
 
+# SonarQube
+.scannerwork/
+
+# Test coverage
+coverage/
+
+# Env
+.env
 sonar-project.properties
-
-.scannerwork
-coverage
